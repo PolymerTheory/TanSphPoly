@@ -1,0 +1,14 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+  - family-names: Spencer
+    given-names: Russell K. W.
+title: "TanSphPoly"
+version: 1.0
+url: "https://github.com/PolymerTheory/TanSphPoly"
+license: "MIT" # This is a common open license that comes with no warranty; adjust as necessary
+keywords:
+  - polymer simulation
+  - stiff
+  - flexible
+  - tangent-sphere
