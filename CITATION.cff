@@ -6,7 +6,7 @@ authors:
 title: "TanSphPoly"
 version: 1.0
 url: "https://github.com/PolymerTheory/TanSphPoly"
-license: "MIT" # This is a common open license that comes with no warranty; adjust as necessary
+license: "MIT" 
 keywords:
   - polymer simulation
   - stiff
