@@ -22,11 +22,11 @@ when "offlat.cc" is compiled.
 "rho_to_phi.cc" is utility that converts the distribution of monomer centers in 
 the file "rho_ave" to volume fractions, which are written to the file "phi_ave".
 
-#Use cases
+# Use cases
 Russell K. W. Spencer and Mark W. Matsen (2022) Universality of Entropic Surface Segregation from Athermal Polymer Blends Due to Conformational Asymmetry. Macromolecules 55, 4, 1120–1126
 
 If you use this code, I would be happy to advertise your paper as a use case.
 
-#License
+# License
 This project is licensed under the MIT License - see the LICENSE.txt file for details.
 
